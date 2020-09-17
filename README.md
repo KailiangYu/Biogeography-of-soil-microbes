@@ -9,7 +9,7 @@ to point shapefiles.
 
 Step 2: Load point shapefiles into google earth engine and then aggregate soil sample values at 30 arc-seconds resolution as average. 
 
-Note: Step 2 needs two tools which are GapFillAndExtendBounds.js and Aggregate_Points.js
+Note: Step 2 needs two tools and functions which are GapFillAndExtendBounds.js and Aggregate_Points.js
 
 Step 3: Extract environmental covariates (n = 90; see supplementary Table 1) on all the soil samples at 30 arc-seconds resolution based on the coordinates of 
 soil samples. 
