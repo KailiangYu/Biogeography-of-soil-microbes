@@ -24,7 +24,7 @@ Step 5: Use the final best models to extrapolate and generate final maps of fung
 
 Note: To run the code, you need to get access to the composite of environmental variables named 'compositeOfInterest'. https://code.earthengine.google.com/?asset=users/ky9hc/Composite/compositeOfInterest
 
-For questions and comments, please contact Kailiang Yu ky9hc@virginia.edu and Devin Routh devin.routh@usys.ethz.ch 
+For questions and comments, please contact Kailiang Yu ky9hc@virginia.edu, Devin Routh devin.routh@usys.ethz.ch or Crowther lab.
 
 
 
